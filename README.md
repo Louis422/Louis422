@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Louis422
-- 👀 I’m interested in  le devellopement web
-- 🌱 I’m currently learning  le devellopement web 
-- 💞️ I’m looking to collaborate on sur un proje de e-commerce, e-lerning ou un site du même genre.
+- 👀 I’m interested in data
+- 🌱 I am currently doing internships and projects in data analysis and data engineering, and at the same time, I am continuing my education.   
+- 💞️ I am looking to collaborate on data engineering and data analysis projects.
 - 📫 How to reach me : mail: ulrichchinetenkeu@gmail.com   numéro de téléphone: +221 78 585 21 49
 
 <!---
